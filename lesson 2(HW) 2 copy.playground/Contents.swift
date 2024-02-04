@@ -122,4 +122,7 @@ for number in arrayNumbers {
 }
 
 
-print("Hello TMS :)")
+
+
+
+let vcvc = "Создал новое свойство"
